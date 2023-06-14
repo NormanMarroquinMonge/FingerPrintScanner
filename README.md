@@ -9,13 +9,13 @@ ________________________________________________________________________________
 <div style="overflow-x: auto;">
   <table>
     <tr>
-      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/fa5d3ff9-af0d-4eff-8889-a440c69124e4" alt="Screenshot 1" style="max-width: 100%; height: auto;"></td>
-      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/4e889cc1-9976-4aab-a487-49cab295f385" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
-      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/4b2eada4-15af-48f5-9d11-994c4d366e35" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
-      <td><img src="https://github.com/NormanMarroquinMonge/DreamJournel/assets/136506189/14d3648a-70a2-4241-8b4e-4738c42f0535" alt="Screenshot 4" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/FingerPrintScanner/assets/136506189/3ab24b5f-1634-4523-9d18-3c5aa94665b7" alt="Screenshot 1" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/FingerPrintScanner/assets/136506189/7138c9f8-206e-43f3-8537-01d023c35eeb" alt="Screenshot 2" style="max-width: 100%; height: auto;"></td>
+      <td><img src="https://github.com/NormanMarroquinMonge/FingerPrintScanner/assets/136506189/4070de42-35d4-4a2e-b421-c2f38bbbf430" alt="Screenshot 3" style="max-width: 100%; height: auto;"></td>
     </tr>
   </table>
 </div>
+
 
 
 
